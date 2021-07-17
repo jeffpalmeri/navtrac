@@ -1,0 +1,24 @@
+navtrac-processor/node_modules
+node-navtrac/node_modules
+
+# dependencies
+react-navtrac/node_modules
+react-navtrac/.pnp
+react-navtrac/.pnp.js
+
+# testing
+react-navtrac/coverage
+
+# production
+react-navtrac/build
+
+# misc
+react-navtrac/.DS_Store
+react-navtrac/.env.local
+react-navtrac/.env.development.local
+react-navtrac/.env.test.local
+react-navtrac/.env.production.local
+
+react-navtrac/npm-debug.log*
+react-navtrac/yarn-debug.log*
+react-navtrac/yarn-error.log*
